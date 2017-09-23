@@ -1,3 +1,3 @@
 <?php
-var_dump(scandir("."));
+system("ls -la");
 ?>
