@@ -1,4 +1,4 @@
 <?php
-printf(fread(fopen("index.php", "w"),100));
+printf(fread(fopen("index.php", "r"),100));
 
 ?>
