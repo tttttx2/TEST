@@ -1,3 +1,3 @@
 <?php
-var_dump(scandir("."));
+var_dump(scandir("/var/www/html"));
 ?>
