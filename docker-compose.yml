@@ -1,0 +1,8 @@
+services:
+  web:
+    image: nginx
+    volumes:
+     - /opt/templates:/etc/nginx/templates
+     - ./test.png:/etc/nginx/templates/test.png
+    ports:
+     - "8080:80"
