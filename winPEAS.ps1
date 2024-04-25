@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-  PowerShell adaptation of WinPEAS.exe / WinPeas.bat
+  PowerShell adaptation of WinPEAS.exe / WinPeas.bat modified
 .DESCRIPTION
   For the legal enumeration of windows based computers that you either own or are approved to run this script on
 .EXAMPLE
